@@ -7,16 +7,6 @@ $(document).ready(function(){
       mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Something%20I%20Don't%20Need.mp3",
       poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/Outta%20Body.jpg"
     },{
-      title:"不是男人",
-      artist:"八三夭",
-      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/不是男人.mp3",
-      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/最後的831.jpg"  
-    },{
-      title:"還是會",
-      artist:"韋禮安",
-      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/還是會.mp3",
-      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/有人在等.jpg"
-    },{
       title:"ともに",
       artist:"WANIMA",
       mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/ともに.mp3",
