@@ -7,6 +7,56 @@ $(document).ready(function(){
       mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Something%20I%20Don't%20Need.mp3",
       poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/Outta%20Body.jpg"
     },{
+      title:"不是男人",
+      artist:"八三夭",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/不是男人.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/最後的831.jpg"  
+    },{
+      title:"還是會",
+      artist:"韋禮安",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/還是會.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/有人在等.jpg"
+    },{
+      title:"ともに",
+      artist:"WANIMA",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/ともに.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/Everybody.jpg"
+    },{
+      title:"雙手插口袋",
+      artist:"頑童MJ116 feat.張震嶽",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/雙手插口袋.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/Fresh%20Game.jpg"
+    },{
+      title:"Down",
+      artist:"Jay Sean",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Down.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/All%20Or%20Nothing.jpg"
+    },{
+      title:"讓我留在你身邊",
+      artist:"陳奕迅",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/讓我留在你身邊.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/讓我留在你身邊.jpg"
+    },{
+      title:"明仔載",
+      artist:"盧廣仲",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/明仔載.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/幾分之幾.jpg"
+    },{
+      title:"Love Yourself",
+      artist:"Justin Bieber",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Love%20Yourself.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/Purpose.jpg"
+    },{
+      title:"追光者",
+      artist:"岑寧兒",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/追光者.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/追光者.jpg"
+    },{
+      title:"晴天",
+      artist:"周杰倫",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/晴天.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/葉惠美.jpg"                  
+    },{
       title:"Without You",
       artist:"高爾宣 OSN",
       mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Without%20You.mp3",
@@ -99,9 +149,8 @@ $(document).ready(function(){
     },{
       title:"浪漫一下",
       artist:"頑童 MJ116",
-      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/怨偶.mp3",
-      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/幹大事.jpg" 
-    },{                        
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/浪漫一下.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/幹大事.jpg"                        
   }];
   
   
