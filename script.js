@@ -2,11 +2,86 @@ $(document).ready(function(){
 
 
   var playlist = [{
-      title:"Something I Don't Need",
-      artist:"ESO",
-      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Something%20I%20Don't%20Need.mp3",
-      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/Outta%20Body.jpg"
+      title:"Memories",
+      artist:"Maroon 5",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Memories.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/JORDI.jpg"
     },{
+      title:"惡作劇",
+      artist:"王藍茵",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/惡作劇.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/惡作劇之吻.jpg"
+    },{
+      title:"秘密基地",
+      artist:"兄弟本色 G.U.T.S & 吳念真",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/秘密基地.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/秘密基地.jpg"
+    },{
+      title:"傻子",
+      artist:"林宥嘉",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/傻子.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/大小說家.jpg"
+    },{
+      title:"我愛你",
+      artist:"盧廣仲",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/我愛你.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/100種生活.jpg"
+    },{
+      title:"Spotlight",
+      artist:"頑童MJ116",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Spotlight.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/Fresh%20Game.jpg"
+    },{          
+      title:"夜空中最亮的星",
+      artist:"逃跑計劃",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/夜空中最亮的星.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/世界.jpg"
+    },{
+      title:"在這座城市遺失了你",
+      artist:"告五人",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/在這座城市遺失了你.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/運氣來得若有似無.jpg"
+    },{
+      title:"高嶺の花子さん",
+      artist:"back number",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/高嶺の花子さん.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/ラブストーリー.jpg"
+    },{
+      title:"再見Hip-Hop",
+      artist:"張震嶽x熱狗x功夫胖x派克特",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/再見Hip-Hop.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/再見Hip-Hop.jpg"
+    },{
+      title:"因為是你",
+      artist:"琳誼01(cover)",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/因為是你.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/北棲Playlist.jpg"
+    },{
+      title:"Something Just Like This",
+      artist:"The Chainsmokers & Coldplay",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Something%20Just%20Like%20This.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/Something%20Just%20Like%20This.jpg"
+    },{
+      title:"想你的習慣",
+      artist:"宋念宇",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/想你的習慣.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/就站在這裡.jpg"
+    },{  
+      title:"成全",
+      artist:"林宥嘉",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/成全.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/成全.jpg"
+    },{
+      title:"明年",
+      artist:"盧廣仲",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/明年.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/明年.jpg"
+    },{                
+        title:"Something I Don't Need",
+        artist:"ESO",
+        mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Something%20I%20Don't%20Need.mp3",
+        poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/Outta%20Body.jpg"
+    },{  
       title:"不是男人",
       artist:"八三夭",
       mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/不是男人.mp3",
