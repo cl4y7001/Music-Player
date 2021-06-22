@@ -74,7 +74,7 @@ $(document).ready(function(){
     },{
       title:"明年",
       artist:"盧廣仲",
-      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/明年.mp3",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Let%20Go.mp3",
       poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/明年.jpg"
     },{                
         title:"Something I Don't Need",
