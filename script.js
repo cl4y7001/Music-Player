@@ -2,11 +2,36 @@ $(document).ready(function(){
 
 
   var playlist = [{
+      title:"藍色眼睛",
+      artist:"ZAYIN",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/藍色眼睛.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/Zayin.jpg"
+    },{
+      title:"世界盡頭",
+      artist:"TRASH",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/世界盡頭.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/trash.jpg"
+    },{
+      title:"當你",
+      artist:"林俊傑",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/當你.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/當你.jpg"
+    },{
+      title:"那些勸我別抽菸的人都死了",
+      artist:"山姆Someshit",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/那些勸我別抽菸的人都死了.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/someshit.jpg"
+    },{  
+      title:"她的睫毛",
+      artist:"周杰倫",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/她的睫毛.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/葉惠美.jpg" 
+    },{
       title:"Memories",
       artist:"Maroon 5",
       mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Memories.mp3",
       poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/JORDI.jpg"
-    },{
+    },{        
       title:"惡作劇",
       artist:"王藍茵",
       mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/惡作劇.mp3",
