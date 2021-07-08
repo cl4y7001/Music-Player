@@ -20,7 +20,7 @@ $(document).ready(function(){
       title:"Do You Remember",
       artist:"MC HotDog",
       mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Do%20You%20Remember.mp3",
-      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img//Do%20You%20Remember.jpg"
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/Do%20You%20Remember.jpg"
     },{
       title:"捲菸",
       artist:"美秀集團",
