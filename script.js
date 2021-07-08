@@ -2,11 +2,61 @@ $(document).ready(function(){
 
 
   var playlist = [{
+      title:"Closer",
+      artist:"The Chainsmokers",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Closer.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/Closer.jpg"
+    },{
+      title:"你不知道的事",
+      artist:"王力宏",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/你不知道的事.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/火力全開.jpg"
+    },{
+      title:"而我知道",
+      artist:"五月天",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/而我知道.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/五月之戀.jpg"
+    },{
+      title:"Do You Remember",
+      artist:"MC HotDog",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/.jpg"
+    },{
+      title:"捲菸",
+      artist:"美秀集團",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/捲菸.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/美秀集團.jpg"
+    },{
+      title:"地球上最浪漫的一首歌",
+      artist:"黃鴻升",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/地球上最浪漫的一首歌.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/.jpg"
+    },{
+      title:"A Thousand Years",
+      artist:"Boyce Avenue(cover)",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/.jpg"
+    },{
+      title:"世界末日",
+      artist:"周杰倫",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/世界末日.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/范特西.jpg"
+    },{  
+      title:"我不是饒舌歌手",
+      artist:"Marz23",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/我不是饒舌歌手.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/.jpg"
+    },{   
+      title:"十年",
+      artist:"陳奕迅",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/十年.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/陳奕迅.jpg" 
+    },{        
       title:"藍色眼睛",
       artist:"ZAYIN",
       mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/藍色眼睛.mp3",
       poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/Zayin.jpg"
-    },{
+    },{    
       title:"世界盡頭",
       artist:"TRASH",
       mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/世界盡頭.mp3",
