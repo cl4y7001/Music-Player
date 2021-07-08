@@ -19,8 +19,8 @@ $(document).ready(function(){
     },{
       title:"Do You Remember",
       artist:"MC HotDog",
-      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/.mp3",
-      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/.jpg"
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Do%20You%20Remember.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img//Do%20You%20Remember.jpg"
     },{
       title:"捲菸",
       artist:"美秀集團",
@@ -30,12 +30,12 @@ $(document).ready(function(){
       title:"地球上最浪漫的一首歌",
       artist:"黃鴻升",
       mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/地球上最浪漫的一首歌.mp3",
-      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/.jpg"
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/愛%26英雄.jpg"
     },{
       title:"A Thousand Years",
       artist:"Boyce Avenue(cover)",
-      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/.mp3",
-      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/.jpg"
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/A%20Thousand%20Years.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/A%20Thousand%20Years.jpg"
     },{
       title:"世界末日",
       artist:"周杰倫",
@@ -45,7 +45,7 @@ $(document).ready(function(){
       title:"我不是饒舌歌手",
       artist:"Marz23",
       mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/我不是饒舌歌手.mp3",
-      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/.jpg"
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/NOT%20A%20RAPPER.jpg"
     },{   
       title:"十年",
       artist:"陳奕迅",
