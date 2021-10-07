@@ -4,28 +4,28 @@ $(document).ready(function(){
   var playlist = [{
       title:"I Used to Care",
       artist:"Louyah",
-      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/I%20Used%20to%20Care.mp3",
       poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/6Feet.jpg"
-    },{
-      title:"灰色と青",
-      artist:"米津玄師",
-      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Closer.mp3",
-      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/bootleg.jpg"
-    },{ 
-      title:"Yellow",
-      artist:"Coldplay",
-      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Yellow.mp3",
-      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/Parachutes.jpg"
     },{
       title:"旅行的意義",
       artist:"陳綺貞",
       mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/旅行的意義.mp3",
       poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/旅行的意義.jpg"
+    },{  
+      title:"灰色と青",
+      artist:"米津玄師",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/灰色と青.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/bootleg.jpg"
     },{
       title:"自由",
       artist:"張震嶽",
       mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/自由.mp3",
-      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/Closer.jpg"
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/Free%20night.jpg"
+    },{   
+      title:"Yellow",
+      artist:"Coldplay",
+      mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Yellow.mp3",
+      poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/Parachutes.jpg"
     },{
       title:"Closer",
       artist:"The Chainsmokers",
