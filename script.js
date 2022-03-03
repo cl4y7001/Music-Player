@@ -4,32 +4,32 @@ $(document).ready(function(){
   var playlist = [{
         title:"RUDE",
         artist:"MAGIC!",
-        mp3:"https://github.com/cl4y7001/Music-Player/blob/main/music/Rude.mp3",
-        poster: "https://github.com/cl4y7001/Music-Player/blob/main/img/rude.jpg"
+        mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Rude.mp3",
+        poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/rude.jpg"
     },{  
         title:"簡單愛",
         artist:"周杰倫",
-        mp3:"https://github.com/cl4y7001/Music-Player/blob/main/music/%E7%B0%A1%E5%96%AE%E6%84%9B.mp3",
+        mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/%E7%B0%A1%E5%96%AE%E6%84%9B.mp3",
         poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/范特西.jpg"
     },{  
         title:"與我無關",
         artist:"阿冗",
-        mp3:"https://github.com/cl4y7001/Music-Player/blob/main/music/%E8%88%87%E6%88%91%E7%84%A1%E9%97%9C.mp3",
-        poster: "https://github.com/cl4y7001/Music-Player/blob/main/img/%E8%88%87%E6%88%91%E7%84%A1%E9%97%9C.jpg"
+        mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/%E8%88%87%E6%88%91%E7%84%A1%E9%97%9C.mp3",
+        poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/%E8%88%87%E6%88%91%E7%84%A1%E9%97%9C.jpg"
     },{  
         title:"ベテルギウス",
         artist:"優里",
-        mp3:"https://github.com/cl4y7001/Music-Player/blob/main/music/%E3%83%99%E3%83%86%E3%83%AB%E3%82%AE%E3%82%A6%E3%82%B9.mp3",
-        poster: "https://github.com/cl4y7001/Music-Player/blob/main/img/%E3%83%99%E3%83%86%E3%83%AB%E3%82%AE%E3%82%A6%E3%82%B9.jpg"   
+        mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/%E3%83%99%E3%83%86%E3%83%AB%E3%82%AE%E3%82%A6%E3%82%B9.mp3",
+        poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/%E3%83%99%E3%83%86%E3%83%AB%E3%82%AE%E3%82%A6%E3%82%B9.jpg"   
     },{   
         title:"Mood",
         artist:"24kGoldn",
-        mp3:"https://github.com/cl4y7001/Music-Player/blob/main/music/Mood.mp3",
-        poster: "https://github.com/cl4y7001/Music-Player/blob/main/img/mood.jpg"
+        mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/Mood.mp3",
+        poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/mood.jpg"
     },{     
         title:"夏天的味道",
         artist:"陸虎",
-        mp3:"https://github.com/cl4y7001/Music-Player/blob/main/music/%E5%A4%8F%E5%A4%A9%E7%9A%84%E5%91%B3%E9%81%93.mp3",
+        mp3:"https://raw.githubusercontent.com/cl4y7001/Music-Player/master/music/%E5%A4%8F%E5%A4%A9%E7%9A%84%E5%91%B3%E9%81%93.mp3",
         poster: "https://raw.githubusercontent.com/cl4y7001/Music-Player/master/img/范特西.jpg"
     },{          
       title:"I Used to Care",
